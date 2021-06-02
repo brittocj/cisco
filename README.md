@@ -13,7 +13,7 @@ Returns hardcoded status of {“Receiver”: “Cisco is the best!”}
 
 ##### Clone the repo and follow the below instructions to run the web application: 
  - Use pipenv to install requiremnts for the Python Django web application.
- - And run the application in pipenv shell
+ - And run the application in pipenv shell from basic_http directory.
  - Use ./manage.py runserver
  
 - Demo available at: http://www.simplysmile.in/cisco/
